@@ -1,5 +1,3 @@
-
-
 while true
     puts "What action do you want to take? \n \n [+] Reverse the sentence: reverse \n [+] Downcase the sentence: downcase \n [+] Upcase the sentence: upcase \n [+] Downcase and reverse: down -reverse \n [+] Upcase and reverse: up-reverse \n [+] Exit: exit"
     choice = gets.chomp
