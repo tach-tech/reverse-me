@@ -22,7 +22,7 @@ while true
         text = gets.reverse.upcase
         puts text 
     elsif choice == "exit"
-        puts "Thnaks for utilisation !"
+        puts "Thanks for utilisation !"
         break
     else
         puts "#{choice}  isn't a command"
