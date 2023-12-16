@@ -8,7 +8,7 @@ Use :
 
 ## How help me
 
-If you want to help me; please give me suggestion for user interface (in discord)
+If you want to help me; please give me suggestion for user interface (go "About-me")
 
 ## About me
 
