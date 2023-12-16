@@ -12,6 +12,6 @@ If you want to help me; please give me suggestion for user interface (go "About-
 
 ## About me
 
-I'm Tach, i start dev and its my first "serious" repo.\n
+I'm Tach, i start dev and its my first "serious" repo.
 If you want contact me : 
 - Discord : tachandtd 
