@@ -1,6 +1,6 @@
 # Reverse-me
 
-This program is create for reverse, downcase and upcase your text.
+This program is made for reverse, downcase and upcase your text.
 
 Use : 
 
